@@ -1,3 +1,12 @@
 body {
-  background-color: rgb(74, 34, 128);
+  background-color: rgb(62, 18, 119);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+span {
+  color: rgb(219, 198, 78);
+  font-size: 30px;
 }
